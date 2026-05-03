@@ -156,6 +156,5 @@ matplotlib>=3.7
 
 ## Author
 
-**Abdub Guracha** — BEng Aerospace Engineering, University of Manchester  
-Structural Lead, UoM UAV Society  
+**Abdub Guracha** — Aerospace Engineering, University of Manchester  
 [GitHub](https://github.com/caesaramg) · [LinkedIn](https://www.linkedin.com/in/abdub-guracha/)
